@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Django - GP&#39;s</title>
+    <link>https://gpda.github.io/categories/django/</link>
+    <description>Recent content in Django on GP&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Dec 2018 10:35:35 -0500</lastBuildDate>
+    
+        <atom:link href="https://gpda.github.io/categories/django/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ImageScrapBook</title>
+      <link>https://gpda.github.io/post/imagescrapbook/</link>
+      <pubDate>Wed, 19 Dec 2018 10:35:35 -0500</pubDate>
+      
+      <guid>https://gpda.github.io/post/imagescrapbook/</guid>
+      <description>Image Scrap Book is a Chrome extension from which a user can select an image on a site. Logging in to the service website will show the user&#39;s saved images, which can also be titled, tagged or deleted and shared with others. The user can also share images in link format e.g. &#39;http://myservice.com/i/aabc3&#39;</description>
+    </item>
+    
+    <item>
+      <title>CryptoCurrency Analytics</title>
+      <link>https://gpda.github.io/post/crypto/</link>
+      <pubDate>Thu, 13 Dec 2018 10:35:35 -0500</pubDate>
+      
+      <guid>https://gpda.github.io/post/crypto/</guid>
+      <description>Cryptocurrency Analytics is a web-app and tool to forecast the crypto currency market by looking at the pricing trends and following articles in response to the price changes. I&#39;ve wanted Cryptocurrency investors to look at the pricing trends and articles generated from major news companies such as Reuters, CNN, WSJ.</description>
+    </item>
+    
+    <item>
+      <title>hashtagNYU</title>
+      <link>https://gpda.github.io/post/hashtagnyu/</link>
+      <pubDate>Fri, 09 Nov 2018 10:35:35 -0500</pubDate>
+      
+      <guid>https://gpda.github.io/post/hashtagnyu/</guid>
+      <description>hashtagNYU is a web-app for students at New York University to see NYU communities at Twitter. I&#39;ve wanted to see how and what people talk about NYU on Twitter. But, I found it hard to find it at once. So hashtagNYU was created to show the contents of Tweets regarding NYU and show the stastics regarding NYU tweets.</description>
+    </item>
+    
+  </channel>
+</rss>

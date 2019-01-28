@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories - GP&#39;s</title>
+    <link>https://gpda.github.io/categories/</link>
+    <description>Recent content in Categories on GP&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+        <atom:link href="https://gpda.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chromeextension</title>
+      <link>https://gpda.github.io/categories/chromeextension/</link>
+      <pubDate>Wed, 19 Dec 2018 10:35:35 -0500</pubDate>
+      
+      <guid>https://gpda.github.io/categories/chromeextension/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Django</title>
+      <link>https://gpda.github.io/categories/django/</link>
+      <pubDate>Wed, 19 Dec 2018 10:35:35 -0500</pubDate>
+      
+      <guid>https://gpda.github.io/categories/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://gpda.github.io/categories/javascript/</link>
+      <pubDate>Wed, 19 Dec 2018 10:35:35 -0500</pubDate>
+      
+      <guid>https://gpda.github.io/categories/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Php</title>
+      <link>https://gpda.github.io/categories/php/</link>
+      <pubDate>Fri, 27 Apr 2018 10:35:35 -0500</pubDate>
+      
+      <guid>https://gpda.github.io/categories/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React</title>
+      <link>https://gpda.github.io/categories/react/</link>
+      <pubDate>Thu, 24 Jan 2019 10:35:35 -0500</pubDate>
+      
+      <guid>https://gpda.github.io/categories/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webapp</title>
+      <link>https://gpda.github.io/categories/webapp/</link>
+      <pubDate>Thu, 24 Jan 2019 10:35:35 -0500</pubDate>
+      
+      <guid>https://gpda.github.io/categories/webapp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

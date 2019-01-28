@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chromeextension - GP&#39;s</title>
+    <link>https://gpda.github.io/categories/chromeextension/</link>
+    <description>Recent content in Chromeextension on GP&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Dec 2018 10:35:35 -0500</lastBuildDate>
+    
+        <atom:link href="https://gpda.github.io/categories/chromeextension/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ImageScrapBook</title>
+      <link>https://gpda.github.io/post/imagescrapbook/</link>
+      <pubDate>Wed, 19 Dec 2018 10:35:35 -0500</pubDate>
+      
+      <guid>https://gpda.github.io/post/imagescrapbook/</guid>
+      <description>Image Scrap Book is a Chrome extension from which a user can select an image on a site. Logging in to the service website will show the user&#39;s saved images, which can also be titled, tagged or deleted and shared with others. The user can also share images in link format e.g. &#39;http://myservice.com/i/aabc3&#39;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GP&#39;s</title>
+    <link>https://gpda.github.io/</link>
+    <description>Recent content on GP&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Apr 2018 09:46:15 -0400</lastBuildDate>
+    
+        <atom:link href="https://gpda.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://gpda.github.io/about/</link>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://gpda.github.io/about/</guid>
+      <description>GP is a senior at NYU studying Computer Science. I am specialized in Web Development skills including Django / React / JavaScript / SQL
+Links GitHub LinkedIn
+Courses  Computer Networks ( CSCI-UA.0480-009 ) Large Scale Web Applicaiton ( CSCI-UA.0480-005 ) Operating Systems ( CSCI-UA.0202 ) Projects in Programming ( INFO-UB-24 ) Web Development ( CSCI-UA.0061 ) Database Design and Web Implementation ( CSCI-UA.0060 ) Computer Vision ( CSCI-UA-0480.001 ) Data Management and Analysis ( CSCI-UA.</description>
+    </item>
+    
+    <item>
+      <title>reactBlogApp</title>
+      <link>https://gpda.github.io/post/reactblog/</link>
+      <pubDate>Thu, 24 Jan 2019 10:35:35 -0500</pubDate>
+      
+      <guid>https://gpda.github.io/post/reactblog/</guid>
+      <description>ReactBlogApp is a CRUD code blog web-app with Markdown Editor. I&#39;ve wanted to contribute to the open-source community and share what I have studied and learned with code examples and images. </description>
+    </item>
+    
+    <item>
+      <title>ImageScrapBook</title>
+      <link>https://gpda.github.io/post/imagescrapbook/</link>
+      <pubDate>Wed, 19 Dec 2018 10:35:35 -0500</pubDate>
+      
+      <guid>https://gpda.github.io/post/imagescrapbook/</guid>
+      <description>Image Scrap Book is a Chrome extension from which a user can select an image on a site. Logging in to the service website will show the user&#39;s saved images, which can also be titled, tagged or deleted and shared with others. The user can also share images in link format e.g. &#39;http://myservice.com/i/aabc3&#39;</description>
+    </item>
+    
+    <item>
+      <title>CryptoCurrency Analytics</title>
+      <link>https://gpda.github.io/post/crypto/</link>
+      <pubDate>Thu, 13 Dec 2018 10:35:35 -0500</pubDate>
+      
+      <guid>https://gpda.github.io/post/crypto/</guid>
+      <description>Cryptocurrency Analytics is a web-app and tool to forecast the crypto currency market by looking at the pricing trends and following articles in response to the price changes. I&#39;ve wanted Cryptocurrency investors to look at the pricing trends and articles generated from major news companies such as Reuters, CNN, WSJ.</description>
+    </item>
+    
+    <item>
+      <title>hashtagNYU</title>
+      <link>https://gpda.github.io/post/hashtagnyu/</link>
+      <pubDate>Fri, 09 Nov 2018 10:35:35 -0500</pubDate>
+      
+      <guid>https://gpda.github.io/post/hashtagnyu/</guid>
+      <description>hashtagNYU is a web-app for students at New York University to see NYU communities at Twitter. I&#39;ve wanted to see how and what people talk about NYU on Twitter. But, I found it hard to find it at once. So hashtagNYU was created to show the contents of Tweets regarding NYU and show the stastics regarding NYU tweets.</description>
+    </item>
+    
+    <item>
+      <title>quizApp</title>
+      <link>https://gpda.github.io/post/quizapp/</link>
+      <pubDate>Fri, 27 Apr 2018 10:35:35 -0500</pubDate>
+      
+      <guid>https://gpda.github.io/post/quizapp/</guid>
+      <description>A quizapp is a CRUD quiz web-app that an user can Create / Read / Update / Delete quiz questions and following answers. The results are shown at the end of quiz with user&#39;s answer / correct answers / scores. People may take the quiz again with the same quesitons or modify questions and take them.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>React - GP&#39;s</title>
+    <link>https://gpda.github.io/categories/react/</link>
+    <description>Recent content in React on GP&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Jan 2019 10:35:35 -0500</lastBuildDate>
+    
+        <atom:link href="https://gpda.github.io/categories/react/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>reactBlogApp</title>
+      <link>https://gpda.github.io/post/reactblog/</link>
+      <pubDate>Thu, 24 Jan 2019 10:35:35 -0500</pubDate>
+      
+      <guid>https://gpda.github.io/post/reactblog/</guid>
+      <description>ReactBlogApp is a CRUD code blog web-app with Markdown Editor. I&#39;ve wanted to contribute to the open-source community and share what I have studied and learned with code examples and images. </description>
+    </item>
+    
+    <item>
+      <title>hashtagNYU</title>
+      <link>https://gpda.github.io/post/hashtagnyu/</link>
+      <pubDate>Fri, 09 Nov 2018 10:35:35 -0500</pubDate>
+      
+      <guid>https://gpda.github.io/post/hashtagnyu/</guid>
+      <description>hashtagNYU is a web-app for students at New York University to see NYU communities at Twitter. I&#39;ve wanted to see how and what people talk about NYU on Twitter. But, I found it hard to find it at once. So hashtagNYU was created to show the contents of Tweets regarding NYU and show the stastics regarding NYU tweets.</description>
+    </item>
+    
+  </channel>
+</rss>

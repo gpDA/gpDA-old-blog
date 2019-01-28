@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Php - GP&#39;s</title>
+    <link>https://gpda.github.io/categories/php/</link>
+    <description>Recent content in Php on GP&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Apr 2018 10:35:35 -0500</lastBuildDate>
+    
+        <atom:link href="https://gpda.github.io/categories/php/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>quizApp</title>
+      <link>https://gpda.github.io/post/quizapp/</link>
+      <pubDate>Fri, 27 Apr 2018 10:35:35 -0500</pubDate>
+      
+      <guid>https://gpda.github.io/post/quizapp/</guid>
+      <description>A quizapp is a CRUD quiz web-app that an user can Create / Read / Update / Delete quiz questions and following answers. The results are shown at the end of quiz with user&#39;s answer / correct answers / scores. People may take the quiz again with the same quesitons or modify questions and take them.</description>
+    </item>
+    
+  </channel>
+</rss>
